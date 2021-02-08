@@ -1,0 +1,15 @@
+#nav{
+    width: 120px;
+}
+
+.onde-comprar{   
+    background: rgb(177, 175, 175);
+}
+
+.primary{
+    background: rgb(255,0,0);
+}
+
+.secondary{
+    font-weight: bold;
+}
